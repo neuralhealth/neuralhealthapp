@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  background-color: #040428;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul,
+li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
